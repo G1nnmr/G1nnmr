@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **AI Automation and Web Technologies**
 - 💬 Ask me about **Wordpress, Python, VB.net, React.js, C++ etc.**
-- ⚡ Inspo *"The hardware is the bones, the software is the soul, and the network is the pulse."*
+- ⚡ Inspo *"The hardware is the bone, the software is the soul, and the network is the pulse."*
 
 ---
 
@@ -33,10 +33,8 @@
 </p>
 
 ---
-
 ### 📈 GitHub Statistics
-<p align="left">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Glnnmr&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Glnnmr Top Langs" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Glnnmr&theme=tokyonight&hide_border=true" alt="Glnnmr Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Glnnmr&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Glnnmr&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
