@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Glennmar Amor</h1>
 
-<h3 align="center">IoT & Networking Enthusiast | Web/Mobile Developer | AI Automation </h3>
+<h3 align="center">IoT & Networking Enthusiast | AI Automation </h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6Znd4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -36,5 +36,4 @@
 ### 📈 GitHub Statistics
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Glnnmr&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Glnnmr&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
