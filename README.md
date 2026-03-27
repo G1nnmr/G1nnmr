@@ -31,9 +31,3 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
-
----
-### 📈 GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Glnnmr&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-</div>
