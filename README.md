@@ -1,5 +1,4 @@
 # 👋👤 Hi, I'm Glennmar Amor
-
 <table border="0">
   <tr>
     <td valign="top" width="65%">
@@ -36,19 +35,16 @@ I enjoy finding ways to make hardware and software talk to each other more effic
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=G1nnmr&theme=radical&show_icons=true&cache=1" height="195" alt="G1nnmr GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G1nnmr&theme=radical&layout=compact&cache=1" height="195" alt="G1nnmr Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=G1nnmr&theme=radical&show_icons=true" height="195" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=G1nnmr&theme=radical&layout=compact" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=G1nnmr&theme=radical&cache=1" alt="G1nnmr Streak" />
+  <img src="https://streak-stats.demolab.com?user=G1nnmr&theme=radical" />
 </p>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=G1nnmr&icon=2&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
