@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" />
+  <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6Znd4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Glennmar Amor</h1>
 
-<h3 align="center">IoT & Networking Enthusiast | AI Automation </h3>
+<h3 align="center"> Networking & IoT Enthusiast | AI Automation </h3>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp6Znd4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Glnnmr&label=Profile%20views&color=0e75b6&style=flat" alt="Glnnmr" /> </p>
 
-- 🌱 I’m currently learning **AI Automation and Web Technologies**
-- 💬 Ask me about **Wordpress, Python, VB.net, React.js, C++ etc.**
+- 🌱 I’m currently learning **Networking, Cybersecurity, and Automation**
+- 💬 Ask me about **Python, C++, C#, VB.net, React.js, etc.**
 - ⚡ Inspo *"The hardware is the bone, the software is the soul, and the network is the pulse."*
 
 ---
