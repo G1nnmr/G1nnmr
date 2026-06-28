@@ -20,10 +20,11 @@
 * **🌐 Networking:** Designing scalable enterprise topologies and troubleshooting complex routing.
 * **🛡️ Security:** Deep-diving into **Network Security** and infrastructure protection.
 * **🤖 Automation:** Developing AI automation to perform routine tasks and streamline workflows.
+* **🛠  IoT & Embedded:** ESP32, Arduino, Raspbery Pi, and Computer Vision.
 
 ---
 
-### ⚡ Fun Fact:
+###  Fun Fact:
 I enjoy finding ways to make hardware and software talk to each other more efficiently—whether it's an automated system or a secure network node.
 
 ## 🌐 Socials:
