@@ -1,4 +1,4 @@
-# 👋👤 Hi, I'm Glennmar Amor
+# 👋 Hello, World!
 <table border="0">
   <tr>
     <td valign="top" width="65%">
