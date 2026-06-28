@@ -2,9 +2,9 @@
 <table border="0">
   <tr>
     <td valign="top" width="65%">
-      <h3>🛠️💻 <b>Computer Engineer | Networking & Automation Specialist</b></h3>
+      <h3>🛠️💻 <b>Computer Engineer | Networking & AI Automation Specialist</b></h3>
       <p>
-        I am a technical professional passionate about the intersection of <b>Networking</b> and <b>Automation</b>. 
+        I am a technical professional passionate about the intersection of <b>Networking</b> and <b>AI Automation</b>. 
         My goal is to develop resilient systems that manage themselves through ai automation and reliable network communication.
       </p>
     </td>
