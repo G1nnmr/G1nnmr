@@ -3,9 +3,6 @@
   <tr>
     <td valign="top" width="65%">
       <h3>🛠️💻 <b>Computer Engineer | Networking & AI Automation Enthusiast</b></h3>
-      <p>
-       I engineer resilient infrastructure specializing in IT Networking and AI-Driven Automation. <b>IT Networking</b> and <b>AI-Driven Automation</b>. 
-      </p>
     </td>
     <td align="center" valign="top" width="35%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVjejFiNWc1N3p0Nm5pamNtMW8xOHA4OWFmNmhydnczemU1dGY0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sOzHwf1DF8h96A5tXU/giphy.gif" width="100%" />
