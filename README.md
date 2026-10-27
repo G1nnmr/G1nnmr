@@ -4,8 +4,7 @@
     <td valign="top" width="65%">
       <h3>🛠️💻 <b>Computer Engineer | Networking & AI Automation Enthusiast</b></h3>
       <p>
-        I am a technical professional passionate about the intersection of <b>Networking</b> and <b>AI Automation</b>. 
-        My goal is to develop resilient systems that manage themselves through ai automation and reliable network communication.
+       I engineer resilient infrastructure specializing in IT Networking and AI-Driven Automation. <b>IT Networking</b> and <b>AI-Driven Automation</b>. 
       </p>
     </td>
     <td align="center" valign="top" width="35%">
@@ -18,8 +17,8 @@
 
 ### 🎯 What I'm Focused On:
 * **🌐 Networking:** Designing scalable enterprise topologies and troubleshooting complex routing.
-* **🛡️ Security:** Deep-diving into **Network Security** and infrastructure protection.
 * **🤖 Automation:** Developing AI automation to perform routine tasks and streamline workflows.
+* **🛡️ Security:** Deep-diving into **Network Security** and infrastructure protection.
 * **🛠  IoT & Embedded:** ESP32, Arduino, Raspbery Pi, and Computer Vision.
 
 ---
